@@ -2,6 +2,7 @@
 
 This project represent a sample clothing website, where users can view different items divided in categories, add them to a cart, sign up, sign out and sign in to a page. Additionally, the project uses Firebase to store user authorisation data and product data. The website responds dynamically to changes in the cart and calculates the total accordingly. Styling of the components is done with the styled-components library and offers a containing styling approach for the components.
 
+Live version of the website can be found here: [https://fanciful-churros-ec0d93.netlify.app/]
 
 # Getting Started with Create React App
 
